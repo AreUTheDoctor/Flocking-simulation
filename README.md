@@ -9,35 +9,35 @@ A feature is then added to allow each individual to avoid obstacle.
 
 Source files to be compiled:
 + in default package
-	> GUI.java (entry point, main class)
-	> Gameplay.java 
+	+ GUI.java (entry point, main class)
+	+ Gameplay.java 
 
 + in drawing package
-	> Canvas.java 
+	+ Canvas.java 
 
 + in flockingbehaviors package:
-	> Alignment.java
-	> Cohesion.java
-	> FlockingBehaviour.java
-	> Separation.java 
+	+ Alignment.java
+	+ Cohesion.java
+	+ FlockingBehaviour.java
+	+ Separation.java 
 
 + in geometry package
-	> CartesianCoordinate.java
-	> LineSegment.java
-	> TrigonometryException.java
-	> TrigonometrySupplement.java
-	> Vector.java
+	+ CartesianCoordinate.java
+	+ LineSegment.java
+	+ TrigonometryException.java
+	+ TrigonometrySupplement.java
+	+ Vector.java
 
 + in tools package
-	> Utils.java
+	+ Utils.java
 
 + in obstacle package
-	> Obstacle.java
+	+ Obstacle.java
 
 + in turtle package
-	> FlockingTurtle.java
-	> DynamicTurtle.java
-	> RandomTurtleB.java
-	> Turtle.java
+	+ FlockingTurtle.java
+	+ DynamicTurtle.java
+	+ RandomTurtleB.java
+	+ Turtle.java
 
 Finally, please press add button to add individual onto the screen.
